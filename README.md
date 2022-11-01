@@ -2,20 +2,20 @@
 
 <h2>👨‍💻 DevSecOps Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Example 1</b>
+  - [Subcategory One](https://link.com/to/project)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Example 1</b>
+  - [Subcategory One](https://link.com/to/project)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Example 1</b>
+  - [Subcategory One](https://link.com/to/project)
 
 <h2>👨‍💻 Certifications:</h2>
 
