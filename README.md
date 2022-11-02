@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nate! <br/><a href="https://www.youtube.com/c/joshmadakor">DevSecOps Admin</a>, <a href="https://github.com/noderzz">Programmer</a>, <a href="https://www.linkedin.com/in/nathanael-zaldivar-11437a172//">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Nate! <br/><a href="https://www.link.com/example">DevSecOps Admin</a>, <a href="https://github.com/noderzz">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 DevSecOps Projects:</h2>
 
