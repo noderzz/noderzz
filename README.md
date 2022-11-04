@@ -11,7 +11,7 @@
   - [Subcategory One](https://link.com/to/project)
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>![images](https://user-images.githubusercontent.com/81652413/200041078-f28ac647-631e-4293-82d7-ff0d0853721d.png)
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
 - <b>Example 1</b>
