@@ -3,7 +3,7 @@
 <h2>👨‍💻 Bash Projects:</h2>
 
 - <b>Bash Scripts</b>
-  - [Script to Install Vanilla Minecraft as a Daemon]([https://link.com/to/project](https://github.com/noderzz/Minecraft_Install_As_Daemon))
+  - [Script to Install Vanilla Minecraft as a Daemon](https://github.com/noderzz/Minecraft_Install_As_Daemon)
 
 <h2>👨‍💻 DevSecOps Projects:</h2>
 
