@@ -25,5 +25,6 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
+- <b>CKAD</b>
 - <b>Comptia Security +</b>
 - <b>CCNA</b>
